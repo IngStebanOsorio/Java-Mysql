@@ -1,0 +1,2 @@
+com.oregoom.mensajes.Main#EditarRegistros(Ljava/lang/String;Ljava/lang/String;I)V
+java.sql.DriverManager#getConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;

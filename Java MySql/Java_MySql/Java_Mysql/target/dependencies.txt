@@ -1,0 +1,4 @@
+digraph "com.oregoom:Java_Mysql:jar:1.0-SNAPSHOT" { 
+	"com.oregoom:Java_Mysql:jar:1.0-SNAPSHOT" -> "mysql:mysql-connector-java:jar:8.0.29:compile" ; 
+	"mysql:mysql-connector-java:jar:8.0.29:compile" -> "com.google.protobuf:protobuf-java:jar:3.19.4:compile" ; 
+ } 

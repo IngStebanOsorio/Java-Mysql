@@ -1,0 +1,7 @@
+organization=javamysql
+projectKey=javamysql
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.30661
+dashboardUrl=https://sonarcloud.io/dashboard?id=javamysql
+ceTaskId=AYJfy1zy79LEzlAO_uvV
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYJfy1zy79LEzlAO_uvV

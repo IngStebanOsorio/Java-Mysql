@@ -1,0 +1,3 @@
+com.oregoom.mensajes.Main#main([Ljava/lang/String;)V
+com.oregoom.mensajes.Main#ListarRegistros()V
+com.oregoom.mensajes.Main#EliminarRegistros(I)V
